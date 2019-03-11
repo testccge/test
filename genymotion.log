@@ -1,0 +1,368 @@
+2019-03-11T11:31:04+07:00 [Genymotion:6912] [warning] libpng warning: iCCP: known incorrect sRGB profile
+2019-03-11T11:31:05+07:00 [Genymotion:6912] [debug] "Local socket created at path: \\.\pipe\907f397a1f5a71abaaa526042f58a1b0"
+2019-03-11T11:31:05+07:00 [Genymotion:6912] [warning] ****  STARTING GENYMOTION  ****
+2019-03-11T11:31:05+07:00 [Genymotion:6912] [warning] Genymotion Version: "Genymotion" "2.12.2"
+2019-03-11T11:31:05+07:00 [Genymotion:6912] [debug] Proxy configuration: no proxy used
+2019-03-11T11:31:05+07:00 [Genymotion:6912] [debug] Host date and time: "11 Mar 2019 11:31:05 +0700"
+2019-03-11T11:31:05+07:00 [Genymotion:6912] [debug] Proxy configuration: no proxy used
+2019-03-11T11:31:05+07:00 [Genymotion:6912] [debug] table stats doesn't exist, creating it and removing stats key in configuration file
+2019-03-11T11:31:05+07:00 [Genymotion:6912] [debug] [tokenError] ""
+2019-03-11T11:31:05+07:00 [Genymotion:6912] [debug] [LaunchpadApp] Started with ("C:\Program Files\Genymobile\Genymotion\genymotion.exe")
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] GL_VENDOR: "NVIDIA Corporation"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] GL_RENDERER: "GeForce 940M/PCIe/SSE2"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] GL_VERSION: "4.5.0 NVIDIA 359.46"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] GL_SHADING_LANGUAGE_VERSION: "4.50 NVIDIA"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] [doRequest] Requesting:  "https://cloud.genymotion.com/launchpad/last_version/windows/x64/"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] [doRequest] done
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] [getGenymotionLastVersion] New version ( "3.0.1" ) available here: "https://dl.genymotion.com/releases/genymotion-3.0.1/genymotion-3.0.1.exe"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] [VBox] Loading "vboxmanage" plugin
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] Last version of Genymotion is  "3.0.1"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] [VBox] Plugin "vboxmanage" loaded
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] [VBox] Chipset: "GenuineIntel"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] [VBox] CPUID 0x1 (Intel): ECX= "7ffafbbf"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [critical] [VBox] VirtualBox not found in registry
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [debug] [VBox] Path: ""
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [warning] VBoxManage path is empty
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [critical] [VBox] "Fail to load vboxmanage plugin from C:/Program Files/Genymobile/Genymotion/plugins/"
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [critical] VM Engine failed to load, state 1
+2019-03-11T11:31:07+07:00 [Genymotion:6912] [critical] Unable to find VM Engine. Plugin loading aborted.
+2019-03-11T11:31:08+07:00 [Genymotion:6912] [debug] [LogCollector] VM engine not available
+2019-03-11T11:31:08+07:00 [Genymotion:6912] [debug] [LogCollector] Creating temporary folder: "C:/Users/Skype/AppData/Local/Temp/genymotion-logs-tmp"
+2019-03-11T11:31:08+07:00 [Genymotion:6912] [warning] [LogCollector] Can't retrieve coredump
+2019-03-11T11:31:08+07:00 [Genymotion:6912] [warning] [LogCollector] Running "C:/Program Files/Genymobile/Genymotion\tools\glewinfo.exe" with args ()
+2019-03-11T11:31:10+07:00 [Genymotion:6912] [warning] [LogCollector] Running "systeminfo" with args ()
+2019-03-11T11:31:17+07:00 [Genymotion:6912] [warning] [LogCollector] Running "route" with args ("print")
+2019-03-11T11:31:17+07:00 [Genymotion:6912] [warning] [LogCollector] Running "dxdiag" with args ("/t", "C:/Users/Skype/AppData/Local/Temp/genymotion-logs-tmp\dxdiag.log")
+2019-03-11T11:31:26+07:00 [Genymotion:6912] [warning] [LogCollector] Running "driverquery" with args ("/FO", "list", "/v")
+2019-03-11T11:31:29+07:00 [Genymotion:6912] [debug] [LogCollector] Copying file "C:/Users/Skype/AppData/Local/Genymobile/genymotion.log" to "C:/Users/Skype/AppData/Local/Temp/genymotion-logs-tmp\general-genymotion.log"
+2019-03-11T11:31:30+07:00 [Genymotion:6912] [debug] [archiveDirectory] Archive created under "C:\Users\Skype\genymotion-log.zip"
+2019-03-11T11:31:30+07:00 [Genymotion:6912] [debug] [LogCollector] Removing temporary folder: "C:/Users/Skype/AppData/Local/Temp/genymotion-logs-tmp"
+2019-03-11T11:31:35+07:00 [Genymotion:6912] [critical] **** STOPPING GENYMOTION WITH ERROR ****
+2019-03-11T11:31:35+07:00 [Genymotion:6912] [warning] ****  STOPPING GENYMOTION  ****
+2019-03-11T11:46:10+07:00 [Genymotion:6708] [warning] libpng warning: iCCP: known incorrect sRGB profile
+2019-03-11T11:46:10+07:00 [Genymotion:6708] [debug] "Local socket created at path: \\.\pipe\907f397a1f5a71abaaa526042f58a1b0"
+2019-03-11T11:46:10+07:00 [Genymotion:6708] [warning] ****  STARTING GENYMOTION  ****
+2019-03-11T11:46:10+07:00 [Genymotion:6708] [warning] Genymotion Version: "Genymotion" "2.12.2"
+2019-03-11T11:46:10+07:00 [Genymotion:6708] [debug] Proxy configuration: no proxy used
+2019-03-11T11:46:10+07:00 [Genymotion:6708] [debug] Host date and time: "11 Mar 2019 11:46:10 +0700"
+2019-03-11T11:46:10+07:00 [Genymotion:6708] [debug] Proxy configuration: no proxy used
+2019-03-11T11:46:11+07:00 [Genymotion:6708] [debug] [tokenError] ""
+2019-03-11T11:46:11+07:00 [Genymotion:6708] [debug] [LaunchpadApp] Started with ("C:\Program Files\Genymobile\Genymotion\genymotion.exe")
+2019-03-11T11:46:12+07:00 [Genymotion:6708] [debug] GL_VENDOR: "NVIDIA Corporation"
+2019-03-11T11:46:12+07:00 [Genymotion:6708] [debug] GL_RENDERER: "GeForce 940M/PCIe/SSE2"
+2019-03-11T11:46:12+07:00 [Genymotion:6708] [debug] GL_VERSION: "4.5.0 NVIDIA 359.46"
+2019-03-11T11:46:12+07:00 [Genymotion:6708] [debug] GL_SHADING_LANGUAGE_VERSION: "4.50 NVIDIA"
+2019-03-11T11:46:12+07:00 [Genymotion:6708] [debug] [doRequest] Requesting:  "https://cloud.genymotion.com/launchpad/last_version/windows/x64/"
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] [doRequest] done
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] [getGenymotionLastVersion] New version ( "3.0.1" ) available here: "https://dl.genymotion.com/releases/genymotion-3.0.1/genymotion-3.0.1.exe"
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] Last version of Genymotion is  "3.0.1"
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] [VBox] Loading "vboxmanage" plugin
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] [VBox] Plugin "vboxmanage" loaded
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] [VBox] Chipset: "GenuineIntel"
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] [VBox] CPUID 0x1 (Intel): ECX= "7ffafbbf"
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] [VBox] Path from registry: "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe"
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] [VBox] Path: "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe"
+2019-03-11T11:46:13+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "hostinfo")
+2019-03-11T11:46:14+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:46:14+07:00 [Genymotion:6708] [debug] [VBox] [System properties] Online physical CPU number: 4
+2019-03-11T11:46:14+07:00 [Genymotion:6708] [debug] [VBox] [System properties] Online virtual CPU number: 2
+2019-03-11T11:46:14+07:00 [Genymotion:6708] [debug] [VBox] [System properties] Max CPU number: 8
+2019-03-11T11:46:14+07:00 [Genymotion:6708] [debug] [VBox] [System properties] Max memory size: 3995
+2019-03-11T11:46:15+07:00 [Genymotion:6708] [debug] [VBox] get "" from host.only.interface
+2019-03-11T11:46:15+07:00 [Genymotion:6708] [debug] [VBox] [findHostOnlyInterface] Looking for compatible host-only interface
+2019-03-11T11:46:15+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "hostonlyifs")
+2019-03-11T11:46:15+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:46:15+07:00 [Genymotion:6708] [debug] [VBox] [getSavedHostOnlyInterface] Checking "VirtualBox Host-Only Ethernet Adapter" interface status (  QHostAddress( "192.168.56.1" )  )
+2019-03-11T11:46:15+07:00 [Genymotion:6708] [debug] [VBox] Empty interface name
+2019-03-11T11:46:15+07:00 [Genymotion:6708] [debug] [VBox] [createHostOnlyInterface] Creating new host-only interface
+2019-03-11T11:46:15+07:00 [Genymotion:6708] [debug] [VBox] Call: ("hostonlyif", "create")
+2019-03-11T11:46:27+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:46:27+07:00 [Genymotion:6708] [debug] [VBox] [createHostOnlyInterface] Interface "VirtualBox Host-Only Ethernet Adapter #2" created with success
+2019-03-11T11:46:27+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "hostonlyifs")
+2019-03-11T11:46:28+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:46:28+07:00 [Genymotion:6708] [debug] [VBox] Call: ("hostonlyif", "ipconfig", "VirtualBox Host-Only Ethernet Adapter #2", "--ip", "192.168.68.1", "--netmask", "255.255.255.0")
+2019-03-11T11:46:28+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:46:28+07:00 [Genymotion:6708] [debug] [VBox] Call: ("hostonlyif", "ipconfig", "VirtualBox Host-Only Ethernet Adapter #2", "--ip", "192.168.68.2", "--netmask", "255.255.255.0")
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] Call: ("dhcpserver", "remove", "--ifname", "VirtualBox Host-Only Ethernet Adapter #2")
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [critical] [VBox] Return code: 2
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [critical] [VBox] Output command: "VBoxManage.exe: error: DHCP server does not exist"
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] Call: ("dhcpserver", "add", "--ifname", "VirtualBox Host-Only Ethernet Adapter #2", "--ip", "192.168.68.100", "--netmask", "255.255.255.0", "--lowerip", "192.168.68.101", "--upperip", "192.168.68.254", "--enable")
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] [createHostOnlyInterface] DHCP server created with success
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] set "VirtualBox Host-Only Ethernet Adapter #2" to host.only.interface
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] [createHostOnlyInterface] "VirtualBox Host-Only Ethernet Adapter #2" host-only interface is ready to use
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] Call: ("--version")
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] VM engine version: "6.0.4r128413"
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] VMX/SVM CPU availability: true
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] VM engine version: "6.0.4r128413"
+2019-03-11T11:46:29+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "vms")
+2019-03-11T11:46:30+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:46:31+07:00 [Genymotion:6708] [warning] Failed to log on Hub ""
+2019-03-11T11:46:31+07:00 [Genymotion:6708] [debug] [loginError] ""
+2019-03-11T11:46:31+07:00 [Genymotion:6708] [debug] [tokenError] ""
+2019-03-11T11:46:36+07:00 [Genymotion:6708] [warning] libpng warning: iCCP: known incorrect sRGB profile
+2019-03-11T11:46:36+07:00 [Genymotion:6708] [warning] libpng warning: iCCP: known incorrect sRGB profile
+2019-03-11T11:46:36+07:00 [Genymotion:6708] [debug] Need EULA agreement
+2019-03-11T11:46:37+07:00 [Genymotion:6708] [debug] Eula Term received
+2019-03-11T11:46:44+07:00 [Genymotion:6708] [debug] Recording agreement
+2019-03-11T11:46:44+07:00 [Genymotion:6708] [debug] EULA accepted
+2019-03-11T11:47:11+07:00 [Genymotion:6708] [debug] Trying to log in as "testjustman@gmail.com"
+2019-03-11T11:47:11+07:00 [Genymotion:6708] [debug] POST  QUrl( "https://cloud.genymotion.com/launchpad/login/" ) 
+2019-03-11T11:47:12+07:00 [Genymotion:6708] [debug] "User testjustman@gmail.com (testjustman@gmail.com) logged on Hub"
+2019-03-11T11:47:12+07:00 [Genymotion:6708] [debug] GET  QUrl( "https://cloud.genymotion.com/vmtemplate/getall?genymotion_version=2.12.2" ) 
+2019-03-11T11:47:12+07:00 [Genymotion:6708] [debug] POST  QUrl( "https://cloud.genymotion.com/licenses/activation/" ) 
+2019-03-11T11:47:12+07:00 [Genymotion:6708] [debug] [doRequest] Requesting:  "https://cloud.genymotion.com/stats/report/genymotion/"
+2019-03-11T11:47:12+07:00 [Genymotion:6708] [debug] Genymotion template count: 125
+2019-03-11T11:47:12+07:00 [Genymotion:6708] [debug] template list retrieved:  125
+2019-03-11T11:47:16+07:00 [Genymotion:6708] [debug] [tokenError] "HTTP code 403: Activation failed: license have never been registered Error downloading https://cloud.genymotion.com/licenses/activation/ - server replied: FORBIDDEN."
+2019-03-11T11:47:17+07:00 [Genymotion:6708] [debug] [doRequest] done
+2019-03-11T11:47:17+07:00 [Genymotion:6708] [debug] [HttpRequest::exec] Request timeout (code: 0 ) : "/stats/report/genymotion/"
+2019-03-11T11:47:17+07:00 [Genymotion:6708] [debug] Stats already sent
+2019-03-11T11:47:38+07:00 [Genymotion:6708] [debug] Searching virtual device with same name
+2019-03-11T11:47:43+07:00 [Genymotion:6708] [debug] Launching download
+2019-03-11T11:47:43+07:00 [Genymotion:6708] [debug] GET  QUrl( "https://cloud.genymotion.com/vmtemplate/a9af19b8-8df9-41a8-81ac-a6294648ecc1/getova?genymotion_version=2.12.2" ) 
+2019-03-11T11:47:43+07:00 [Genymotion:6708] [debug] Proxy configuration: no proxy used
+2019-03-11T11:47:44+07:00 [Genymotion:6708] [debug] Starting download of "https://dl.genymotion.com/dists/5.1.0/ova/genymotion_vbox86p_5.1_180522_002108.ova"
+2019-03-11T11:47:48+07:00 [Genymotion:6708] [debug] Slideshow loaded:  OK
+2019-03-11T11:56:51+07:00 [Genymotion:6708] [debug] Download successful. status: 200
+2019-03-11T11:56:54+07:00 [Genymotion:6708] [debug] Local OVA file computed SHA1 is "47b36c6cda3a824f973fab0f0b97962a4c25bc1f"
+2019-03-11T11:56:54+07:00 [Genymotion:6708] [debug] Server said we should have that OVA hash:  "47b36c6cda3a824f973fab0f0b97962a4c25bc1f"
+2019-03-11T11:56:54+07:00 [Genymotion:6708] [debug] Searching virtual device with same name
+2019-03-11T11:56:55+07:00 [Genymotion:6708] [debug] Virtual device to create: "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560"
+2019-03-11T11:56:55+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "systemproperties")
+2019-03-11T11:56:55+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:56:55+07:00 [Genymotion:6708] [debug] [VBox] VBox machinefolder path setting is  "C:\Users\Skype\VirtualBox VMs"
+2019-03-11T11:56:55+07:00 [Genymotion:6708] [debug] [VBox] Call: ("setproperty", "machinefolder", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed")
+2019-03-11T11:56:55+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:56:55+07:00 [Genymotion:6708] [debug] [VBox] Call: ("import", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\ova\genymotion_vbox86p_5.1_180522_002108.ova", "--vsys", "0", "--vmname", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "--cpus", "4", "--memory", "3072", "--unit", "10", "--disk", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed\Google Nexus 6 - 5.1.0 - API 22 - 1440x2560\android_system_disk.vmdk", "--unit", "11", "--disk", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed\Google Nexus 6 - 5.1.0 - API 22 - 1440x2560\android_data_disk.vmdk", "--unit", "12", "--disk", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed\Google Nexus 6 - 5.1.0 - API 22 - 1440x2560\android_sdcard_disk.vmdk")
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "enumerate", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Call: ("storageattach", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "--storagectl", "IDEController", "--port", "1", "--device", "0", "--medium", "none")
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Call: ("closemedium", "disk", "c6ffa6df-af34-4bb1-b157-d0fdd5b02021", "--delete")
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:07+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Call: ("createhd", "--filename", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed\Google Nexus 6 - 5.1.0 - API 22 - 1440x2560\sdcard.vdi", "--size", "65536", "--format", "VDI")
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Call: ("storageattach", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "--storagectl", "IDEController", "--port", "1", "--device", "0", "--type", "hdd", "--medium", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed\Google Nexus 6 - 5.1.0 - API 22 - 1440x2560\sdcard.vdi")
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Call: ("setproperty", "machinefolder", "C:\Users\Skype\VirtualBox VMs")
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] [findHostOnlyInterface] Looking for compatible host-only interface
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "hostonlyifs")
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] [getSavedHostOnlyInterface] Checking "VirtualBox Host-Only Ethernet Adapter #2" interface status (  QHostAddress( "192.168.68.2" )  )
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] [getSavedHostOnlyInterface] "VirtualBox Host-Only Ethernet Adapter #2" Interface seems compatible
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "dhcpservers")
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] [checkIfInterfaceHasValidDhcp] "HostInterfaceNetworking-VirtualBox Host-Only Ethernet Adapter #2" DHCP server is associated with "VirtualBox Host-Only Ethernet Adapter #2" interface
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] [checkIfInterfaceHasValidDhcp] "VirtualBox Host-Only Ethernet Adapter #2" interface is compatible
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "--nic1", "hostonly")
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "--hostonlyadapter1", "VirtualBox Host-Only Ethernet Adapter #2")
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:08+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "--nictype1", "virtio")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "--cableconnected1", "on")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "genymotion_player_version", "1")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "enumerate", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "template_uuid", "a9af19b8-8df9-41a8-81ac-a6294648ecc1")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "datadisk_size", "65536")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "release_date", "Tue May 22 00:21:47 2018 GMT")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "sensor_camera", "1")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "sensor_gyro", "1")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "vbox_graph_mode", "1440x2560-16")
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:09+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "vbox_dpi", "560")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "genymotion_force_navbar", "1")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "android_version", "5.1.0")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "genymotion_version", "2.12.1")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "genymotion_platform", "p")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "--cpus", "4")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "--memory", "3072")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "genymotion_device_id", "000000000000000")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("snapshot", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560", "take", "factory-backup", "--description", "Initial snapshot to reset factory state")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560" : Snapshot created with success: "factory-backup"
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] Virtual device created with success: "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560"
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] Creation status: "The virtual device has been created successfully."
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "enumerate", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:10+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T11:57:11+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T11:57:36+07:00 [Genymotion:6708] [debug] Found file "a9af19b8-8df9-41a8-81ac-a6294648ecc1.bin"
+2019-03-11T11:57:36+07:00 [Genymotion:6708] [debug] GET  QUrl( "https://cloud.genymotion.com/vmtemplate/getall?genymotion_version=2.12.2" ) 
+2019-03-11T11:57:36+07:00 [Genymotion:6708] [debug] Refreshing Hub session
+2019-03-11T11:57:36+07:00 [Genymotion:6708] [debug] Trying to log in as "testjustman@gmail.com"
+2019-03-11T11:57:36+07:00 [Genymotion:6708] [debug] POST  QUrl( "https://cloud.genymotion.com/launchpad/login/" ) 
+2019-03-11T11:57:38+07:00 [Genymotion:6708] [debug] "User testjustman@gmail.com (testjustman@gmail.com) logged on Hub"
+2019-03-11T11:57:38+07:00 [Genymotion:6708] [debug] Pending calls: 1
+2019-03-11T11:57:38+07:00 [Genymotion:6708] [debug] GET  QUrl( "https://cloud.genymotion.com/vmtemplate/getall?genymotion_version=2.12.2" ) 
+2019-03-11T11:57:38+07:00 [Genymotion:6708] [debug] POST  QUrl( "https://cloud.genymotion.com/licenses/activation/" ) 
+2019-03-11T11:57:38+07:00 [Genymotion:6708] [debug] Genymotion template count: 125
+2019-03-11T11:57:39+07:00 [Genymotion:6708] [debug] template list retrieved:  125
+2019-03-11T11:57:43+07:00 [Genymotion:6708] [debug] [tokenError] "HTTP code 403: Activation failed: license have never been registered Error downloading https://cloud.genymotion.com/licenses/activation/ - server replied: FORBIDDEN."
+2019-03-11T11:58:21+07:00 [Genymotion:6708] [debug] Searching virtual device with same name
+2019-03-11T11:58:23+07:00 [Genymotion:6708] [debug] Launching download
+2019-03-11T11:58:23+07:00 [Genymotion:6708] [debug] GET  QUrl( "https://cloud.genymotion.com/vmtemplate/6185bb7c-1f96-40bb-9f6c-798bd7547d36/getova?genymotion_version=2.12.2" ) 
+2019-03-11T11:58:23+07:00 [Genymotion:6708] [debug] Proxy configuration: no proxy used
+2019-03-11T11:58:23+07:00 [Genymotion:6708] [debug] Starting download of "https://dl.genymotion.com/dists/7.1.0/ova/genymotion_vbox86p_7.1_180522_041736.ova"
+2019-03-11T11:58:24+07:00 [Genymotion:6708] [debug] Slideshow loaded:  OK
+2019-03-11T12:11:08+07:00 [Genymotion:6708] [debug] Download successful. status: 200
+2019-03-11T12:11:12+07:00 [Genymotion:6708] [debug] Local OVA file computed SHA1 is "aaa69cbc8ff2c72c10231049468d99cca9d8c027"
+2019-03-11T12:11:12+07:00 [Genymotion:6708] [debug] Server said we should have that OVA hash:  "aaa69cbc8ff2c72c10231049468d99cca9d8c027"
+2019-03-11T12:11:12+07:00 [Genymotion:6708] [debug] Searching virtual device with same name
+2019-03-11T12:11:13+07:00 [Genymotion:6708] [debug] Virtual device to create: "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560"
+2019-03-11T12:11:13+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "systemproperties")
+2019-03-11T12:11:13+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:13+07:00 [Genymotion:6708] [debug] [VBox] VBox machinefolder path setting is  "C:\Users\Skype\VirtualBox VMs"
+2019-03-11T12:11:13+07:00 [Genymotion:6708] [debug] [VBox] Call: ("setproperty", "machinefolder", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed")
+2019-03-11T12:11:13+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:13+07:00 [Genymotion:6708] [debug] [VBox] Call: ("import", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\ova\genymotion_vbox86p_7.1_180522_041736.ova", "--vsys", "0", "--vmname", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "--cpus", "4", "--memory", "3072", "--unit", "10", "--disk", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed\Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560\android_system_disk.vmdk", "--unit", "11", "--disk", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed\Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560\android_data_disk.vmdk", "--unit", "12", "--disk", "C:\Users\Skype\AppData\Local\Genymobile\Genymotion\deployed\Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560\android_sdcard_disk.vmdk")
+2019-03-11T12:11:35+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:35+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:35+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:35+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "enumerate", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:35+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:35+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Call: ("storageattach", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "--storagectl", "IDEController", "--port", "1", "--device", "0", "--medium", "none")
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Call: ("closemedium", "disk", "037d629f-bc66-44ca-884f-691a13231b27", "--delete")
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Call: ("setproperty", "machinefolder", "C:\Users\Skype\VirtualBox VMs")
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] [findHostOnlyInterface] Looking for compatible host-only interface
+2019-03-11T12:11:36+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "hostonlyifs")
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] [getSavedHostOnlyInterface] Checking "VirtualBox Host-Only Ethernet Adapter #2" interface status (  QHostAddress( "192.168.68.2" )  )
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] [getSavedHostOnlyInterface] "VirtualBox Host-Only Ethernet Adapter #2" Interface seems compatible
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] Call: ("list", "dhcpservers")
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] [checkIfInterfaceHasValidDhcp] "HostInterfaceNetworking-VirtualBox Host-Only Ethernet Adapter #2" DHCP server is associated with "VirtualBox Host-Only Ethernet Adapter #2" interface
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] [checkIfInterfaceHasValidDhcp] "VirtualBox Host-Only Ethernet Adapter #2" interface is compatible
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "--nic1", "hostonly")
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "--hostonlyadapter1", "VirtualBox Host-Only Ethernet Adapter #2")
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:37+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "--nictype1", "virtio")
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "--cableconnected1", "on")
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "genymotion_player_version", "1")
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "enumerate", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:38+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "template_uuid", "6185bb7c-1f96-40bb-9f6c-798bd7547d36")
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "datadisk_size", "32768")
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "release_date", "Tue May 22 04:19:04 2018 GMT")
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "sensor_camera", "1")
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "sensor_gyro", "1")
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:39+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "vbox_graph_mode", "1440x2560-16")
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "vbox_dpi", "640")
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "genymotion_force_navbar", "0")
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "android_version", "7.1.0")
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "genymotion_version", "2.12.1")
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "genymotion_platform", "p")
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:40+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "--cpus", "4")
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Call: ("modifyvm", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "--memory", "3072")
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "set", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "genymotion_device_id", "000000000000000")
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Call: ("snapshot", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560", "take", "factory-backup", "--description", "Initial snapshot to reset factory state")
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560" : Snapshot created with success: "factory-backup"
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] Virtual device created with success: "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560"
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] Creation status: "The virtual device has been created successfully."
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:41+07:00 [Genymotion:6708] [debug] [VBox] Call: ("guestproperty", "enumerate", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:42+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:11:42+07:00 [Genymotion:6708] [debug] [VBox] Call: ("showvminfo", "Samsung Galaxy S6 - 7.1.0 - API 25 - 1440x2560")
+2019-03-11T12:11:42+07:00 [Genymotion:6708] [debug] [VBox] Return code: 0
+2019-03-11T12:30:35+07:00 [Genymotion:6708] [warning] ****  STOPPING GENYMOTION  ****
+yer", "--vm-name", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T12:29:53+07:00 [Genymotion Player:5280] [warning] libpng warning: iCCP: known incorrect sRGB profile
+2019-03-11T12:29:53+07:00 [Genymotion Player:5280] [debug] [VBox] Loading "vboxmanage" plugin
+2019-03-11T12:29:53+07:00 [Genymotion Player:5280] [debug] [VBox] Plugin "vboxmanage" loaded
+2019-03-11T12:29:53+07:00 [Genymotion Player:5280] [debug] [VBox] Chipset: "GenuineIntel"
+2019-03-11T12:29:53+07:00 [Genymotion Player:5280] [debug] [VBox] CPUID 0x1 (Intel): ECX= "7ffafbbf"
+2019-03-11T12:29:53+07:00 [Genymotion Player:5280] [debug] [VBox] Path from registry: "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe"
+2019-03-11T12:29:53+07:00 [Genymotion Player:5280] [debug] [VBox] Path: "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe"
+2019-03-11T12:29:53+07:00 [Genymotion Player:5280] [debug] [VBox] Call: ("list", "hostinfo")
+2019-03-11T12:29:54+07:00 [Genymotion Player:5280] [debug] [VBox] Return code: 0
+2019-03-11T12:29:54+07:00 [Genymotion Player:5280] [debug] [VBox] [System properties] Online physical CPU number: 4
+2019-03-11T12:29:54+07:00 [Genymotion Player:5280] [debug] [VBox] [System properties] Online virtual CPU number: 2
+2019-03-11T12:29:54+07:00 [Genymotion Player:5280] [debug] [VBox] [System properties] Max CPU number: 8
+2019-03-11T12:29:54+07:00 [Genymotion Player:5280] [debug] [VBox] [System properties] Max memory size: 3995
+2019-03-11T12:29:54+07:00 [Genymotion Player:5280] [debug] [VBox] get "VirtualBox Host-Only Ethernet Adapter #2" from host.only.interface
+2019-03-11T12:29:54+07:00 [Genymotion Player:5280] [debug] [VBox] [findHostOnlyInterface] Looking for compatible host-only interface
+2019-03-11T12:29:54+07:00 [Genymotion Player:5280] [debug] [VBox] Call: ("list", "hostonlyifs")
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] Return code: 0
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] [getSavedHostOnlyInterface] Checking "VirtualBox Host-Only Ethernet Adapter #2" interface status (  QHostAddress( "192.168.68.2" )  )
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] [getSavedHostOnlyInterface] "VirtualBox Host-Only Ethernet Adapter #2" Interface seems compatible
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] Call: ("list", "dhcpservers")
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] Return code: 0
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] [checkIfInterfaceHasValidDhcp] "HostInterfaceNetworking-VirtualBox Host-Only Ethernet Adapter #2" DHCP server is associated with "VirtualBox Host-Only Ethernet Adapter #2" interface
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] [checkIfInterfaceHasValidDhcp] "VirtualBox Host-Only Ethernet Adapter #2" interface is compatible
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] Call: ("--version")
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] Return code: 0
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] VM engine version: "6.0.4r128413"
+2019-03-11T12:29:55+07:00 [Genymotion Player:5280] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T12:29:56+07:00 [Genymotion Player:5280] [debug] [VBox] Return code: 0
+2019-03-11T12:29:56+07:00 [Genymotion Player:5280] [debug] [VBox] Call: ("guestproperty", "enumerate", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T12:29:56+07:00 [Genymotion Player:5280] [debug] [VBox] Return code: 0
+2019-03-11T12:29:56+07:00 [Genymotion Player:5280] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T12:29:56+07:00 [Genymotion Player:5280] [debug] [VBox] Return code: 0
+2019-03-11T12:29:56+07:00 [Genymotion Player:5280] [debug] [VBox] Call: ("showvminfo", "Google Nexus 6 - 5.1.0 - API 22 - 1440x2560")
+2019-03-11T12:29:56+07:00 [Genymotion Player:5280] [debug] [VBox] Return code: 0
